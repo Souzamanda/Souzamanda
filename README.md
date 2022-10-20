@@ -1,4 +1,7 @@
 ### Hello!! I am Amanda Puttomatti
+
+I am a Software Engineer. Always working on new projects and learning new things.
+
 <div align="center">
   <a href="https://github.com/Souzamanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souzamanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
